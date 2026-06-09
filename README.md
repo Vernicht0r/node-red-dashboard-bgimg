@@ -1,6 +1,6 @@
 # FlowFuse Dashboard
 
-Documentation can be found here: https://dashboard.flowfuse.com
+Documentation can be found here:
 
 ## Installation
 
@@ -18,14 +18,13 @@ If you want to use `npm` to install your nodes, you can instead [follow these in
 
 ### Cloud Hosted Dashboards
 
-If you're looking to host Node-RED in the Cloud, then look no further than [FlowFuse](https://flowfuse.com/). FlowFuse is a fully managed platform for hosting, securing, managing and scaling Node-RED deployments. You can [sign up today for a free trial](https://app.flowfuse.com/account/create).
 
 <div style="text-align: center; margin-bottom: 12px;">
     <img width="600" alt="Screenshot of the 'Getting Started with FlowFuse Dashboard' blueprint from FlowFuse Cloud" src="./docs/assets/images/blueprint-getting-started.png">
     <em style="display: block; text-align: center;">Screenshot of the "Getting Started with FlowFuse Dashboard" blueprint from FlowFuse Cloud</em>
 </div>
 
-FlowFuse also comes with a collection of [FlowFuse Dashboard Blueprints](https://flowfuse.com/blueprints/) to help you get started on your FlowFuse Dashboard journey.
+FlowFuse also comes with a collection of [FlowFuse Dashboard Blueprints](https://) to help you get started on your FlowFuse Dashboard journey.
 
 ## Features
 
